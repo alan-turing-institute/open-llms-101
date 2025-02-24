@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "open-llms-101"
+version = "0.1.0"
+description = ""
+authors = ["fedenanni <nanni.federico@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+transformers = "^4.49.0"
+torch = "^2.6.0"
+torchvision = "^0.21.0"
+torchaudio = "^2.6.0"
+accelerate = "^1.4.0"
+html2text = "^2024.2.26"
+ollama = "^0.4.7"
+
+
+[tool.poetry.group.dev.dependencies]
+ipywidgets = "^8.1.5"
+jupyter = "^1.1.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
