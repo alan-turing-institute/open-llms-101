@@ -173,3 +173,4 @@ cython_debug/
 fine_tuned_gemma/*
 results/*
 0.1_fine_tuned_gemma/*
+0.*
