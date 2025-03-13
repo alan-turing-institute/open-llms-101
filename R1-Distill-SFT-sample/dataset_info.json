@@ -1,0 +1,339 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "v1",
+  "dataset_name": "r1-distill-sft",
+  "dataset_size": 25783989151,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00000-of-00052.parquet": {
+      "num_bytes": 167427403,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00001-of-00052.parquet": {
+      "num_bytes": 196512586,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00002-of-00052.parquet": {
+      "num_bytes": 191646952,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00003-of-00052.parquet": {
+      "num_bytes": 190341693,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00004-of-00052.parquet": {
+      "num_bytes": 191193533,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00005-of-00052.parquet": {
+      "num_bytes": 194046232,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00006-of-00052.parquet": {
+      "num_bytes": 191772449,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00007-of-00052.parquet": {
+      "num_bytes": 191252661,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00008-of-00052.parquet": {
+      "num_bytes": 190665667,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00009-of-00052.parquet": {
+      "num_bytes": 190209463,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00010-of-00052.parquet": {
+      "num_bytes": 193129798,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00011-of-00052.parquet": {
+      "num_bytes": 192876736,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00012-of-00052.parquet": {
+      "num_bytes": 190073154,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00013-of-00052.parquet": {
+      "num_bytes": 191808022,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00014-of-00052.parquet": {
+      "num_bytes": 192947525,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00015-of-00052.parquet": {
+      "num_bytes": 192154210,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00016-of-00052.parquet": {
+      "num_bytes": 188975978,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00017-of-00052.parquet": {
+      "num_bytes": 192790430,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00018-of-00052.parquet": {
+      "num_bytes": 192746660,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00019-of-00052.parquet": {
+      "num_bytes": 193814933,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00020-of-00052.parquet": {
+      "num_bytes": 192821450,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00021-of-00052.parquet": {
+      "num_bytes": 190607805,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00022-of-00052.parquet": {
+      "num_bytes": 192034373,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00023-of-00052.parquet": {
+      "num_bytes": 193912850,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00024-of-00052.parquet": {
+      "num_bytes": 207257086,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00025-of-00052.parquet": {
+      "num_bytes": 461794032,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00026-of-00052.parquet": {
+      "num_bytes": 113815743,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00027-of-00052.parquet": {
+      "num_bytes": 113981911,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00028-of-00052.parquet": {
+      "num_bytes": 143278318,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00029-of-00052.parquet": {
+      "num_bytes": 346649407,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00030-of-00052.parquet": {
+      "num_bytes": 366536483,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00031-of-00052.parquet": {
+      "num_bytes": 433425154,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00032-of-00052.parquet": {
+      "num_bytes": 429541886,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00033-of-00052.parquet": {
+      "num_bytes": 422805855,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00034-of-00052.parquet": {
+      "num_bytes": 193479413,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00035-of-00052.parquet": {
+      "num_bytes": 75209660,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00036-of-00052.parquet": {
+      "num_bytes": 52230686,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00037-of-00052.parquet": {
+      "num_bytes": 141676700,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00038-of-00052.parquet": {
+      "num_bytes": 227299413,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00039-of-00052.parquet": {
+      "num_bytes": 287396074,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00040-of-00052.parquet": {
+      "num_bytes": 272447159,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00041-of-00052.parquet": {
+      "num_bytes": 295256302,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00042-of-00052.parquet": {
+      "num_bytes": 294035597,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00043-of-00052.parquet": {
+      "num_bytes": 293327613,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00044-of-00052.parquet": {
+      "num_bytes": 212332551,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00045-of-00052.parquet": {
+      "num_bytes": 184991925,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00046-of-00052.parquet": {
+      "num_bytes": 201131258,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00047-of-00052.parquet": {
+      "num_bytes": 203902098,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00048-of-00052.parquet": {
+      "num_bytes": 203146157,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00049-of-00052.parquet": {
+      "num_bytes": 122075540,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00050-of-00052.parquet": {
+      "num_bytes": 121461684,
+      "checksum": null
+    },
+    "hf://datasets/ServiceNow-AI/R1-Distill-SFT@16e851e107d928b9069dcce428a2d3d7154e5353/v1/train-00051-of-00052.parquet": {
+      "num_bytes": 122331794,
+      "checksum": null
+    }
+  },
+  "download_size": 11128580062,
+  "features": {
+    "id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "reannotated_assistant_content": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "source": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "reannotated_messages": [
+      {
+        "content": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "role": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      }
+    ],
+    "messages": [
+      {
+        "content": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "role": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      }
+    ],
+    "source_dataset": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "verified": {
+      "dtype": "null",
+      "_type": "Value"
+    },
+    "quality_metrics": {
+      "dtype": "null",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 36912569213,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 25783989151,
+      "num_examples": 1679162,
+      "shard_lengths": [
+        40292,
+        35292,
+        36292,
+        35292,
+        35292,
+        35292,
+        36292,
+        36292,
+        36584,
+        35292,
+        36292,
+        36292,
+        35292,
+        35292,
+        36292,
+        36292,
+        35292,
+        35584,
+        36292,
+        36292,
+        35292,
+        35292,
+        21292,
+        12000,
+        36292,
+        67584,
+        27292,
+        24292,
+        20291,
+        15000,
+        16000,
+        16291,
+        16000,
+        15291,
+        15000,
+        28291,
+        89873,
+        32291,
+        28291,
+        22291,
+        23000,
+        25291,
+        24291,
+        24291,
+        24000,
+        33291,
+        43582,
+        41291,
+        39291,
+        61582,
+        43582
+      ],
+      "dataset_name": "r1-distill-sft"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

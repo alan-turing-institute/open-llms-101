@@ -170,3 +170,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 trained_models/*
+R1-Distill-SFT-sample/cache*
