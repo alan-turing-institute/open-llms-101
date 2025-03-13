@@ -6,7 +6,7 @@ Intro workshop on Open LLMs at AIUK2025
 1. What are open LLMs?
 2. What can you do with them?
 3. Ollama
-4. Huggingface
+4. Huggingface [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alan-turing-institute/open-llms-101/blob/main/open_llms_huggingface.ipynb)
 
 
 ## Acknoweldgements 
