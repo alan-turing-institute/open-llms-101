@@ -169,8 +169,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-0.01_fine_tuned_gemma/*
-fine_tuned_gemma/*
-results/*
-0.1_fine_tuned_gemma/*
-0.*
+trained_models/*
